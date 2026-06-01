@@ -34,7 +34,8 @@ bash
 pip install colorama
 Running the Program
 bash
-python password_generator.py ```
+python password_generator.py 
+```
 📖 How to Use
 Enter password length – type a number (e.g., 12)
 
