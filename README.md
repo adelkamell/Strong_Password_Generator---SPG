@@ -25,8 +25,8 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/adelkamell/password-generator.git
-cd password-generator
+git clone https://github.com/adelkamell/Strong_Password_Generator---SPG.git
+cd Strong_Password_Generator---SPG
 ```
 2. Install the required dependency :
 ```bash
