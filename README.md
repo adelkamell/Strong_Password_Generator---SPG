@@ -23,7 +23,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository :
 ```bash
 git clone https://github.com/adelkamell/Strong_Password_Generator---SPG.git
 cd Strong_Password_Generator---SPG
@@ -64,26 +64,26 @@ Enter specific characters you don't want in your password (separate with space) 
 Strong Password : Kv#mP$2xL&yZ*Wq
 
 ### ⚠️ Important Note
-The more character types you exclude, the less secure your password becomes.
-It is recommended to include at least 3 out of the 4 character types for strong security.
+    The more character types you exclude, the less secure your password becomes.
+    It is recommended to include at least 3 out of the 4 character types for strong security.
 
 ### 🛠️ Built With
-Python 3 – Core language
+    Python 3 – Core language
 
-Colorama – Terminal color support
+    Colorama – Terminal color support
 
 
 ### 👨‍💻 Author
-Adel Kamel
+    Adel Kamel
 
 ### GitHub: @adelkamell
 
 ### 📄 License
-This project is open source and available under the MIT License.
+    This project is open source and available under the MIT License.
 
 ### 🙌 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
+    Contributions, issues, and feature requests are welcome!
+    Feel free to check the issues page.
 
-## ⭐ Show Your Support
-If you found this project helpful, please give it a ⭐ on GitHub!
+### ⭐ Show Your Support
+    If you found this project helpful, please give it a ⭐ on GitHub!
