@@ -1,4 +1,4 @@
-# 🔐 Strong Password Generator (SPG)
+# 🔐 Strong Password Generator
 
 A powerful and interactive command-line password generator written in Python.  
 This tool allows you to customize your password by choosing which character types to include or exclude — even down to specific characters.
@@ -10,7 +10,7 @@ This tool allows you to customize your password by choosing which character type
 
 - ✅ Choose password length
 - ✅ Exclude entire character types (digits, lowercase, uppercase, special characters)
-- ✅ Exclude specific custom characters (e.g., `@ # $` or any letters you don't want)
+- ✅ Exclude specific custom characters (e.g., `@ # $` or letters you don't want)
 - ✅ Generate multiple passwords without restarting
 - ✅ Color-coded terminal output using `colorama`
 - ✅ ASCII art banner with credits
@@ -24,20 +24,19 @@ Make sure you have Python 3.6 or higher installed on your system.
 ### Installation
 
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/adelkamell/Strong_Password_Generator---SPG.git
-cd Strong_Password_Generator---SPG
-Install the required dependency:
-
-bash
-    pip install colorama
-
-Running the Program :
-bash
-    python password_generator.py 
+git clone https://github.com/adelkamell/password-generator.git
+cd password-generator
 ```
-📖 How to Use
+2. Install the required dependency:
+```bash
+pip install colorama
+```
+3. ▶️ Running the Program :
+```bash
+python password_generator.py
+```
+### 📖 How to Use
 Enter password length – type a number (e.g., 12)
 
 Choose character types to exclude – enter numbers 1 to 4 separated by spaces, or press Enter to use all types
@@ -48,7 +47,7 @@ View your generated password
 
 Generate another password – type y or n
 
-Example Walkthrough
+### Example Walkthrough
 text
 How many characters do you want your password to have? 16
 
@@ -63,26 +62,28 @@ Enter the numbers separated by space ('1 3' .e.g), or press Enter to use all typ
 Enter specific characters you don't want in your password (separate with space) or press Enter to skip : ! @ #
 
 Strong Password : Kv#mP$2xL&yZ*Wq
-⚠️ Important Note
+
+### ⚠️ Important Note
 The more character types you exclude, the less secure your password becomes.
 It is recommended to include at least 3 out of the 4 character types for strong security.
 
-🛠️ Built With
+### 🛠️ Built With
 Python 3 – Core language
 
 Colorama – Terminal color support
 
-👨‍💻 Author
+
+### 👨‍💻 Author
 Adel Kamel
 
-GitHub: @adelkamell
+### GitHub: @adelkamell
 
-📄 License
+### 📄 License
 This project is open source and available under the MIT License.
 
-🙌 Contributing
+### 🙌 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page.
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 If you found this project helpful, please give it a ⭐ on GitHub!
