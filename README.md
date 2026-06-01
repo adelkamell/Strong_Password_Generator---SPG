@@ -10,7 +10,7 @@ This tool allows you to customize your password by choosing which character type
 
 - ✅ Choose password length
 - ✅ Exclude entire character types (digits, lowercase, uppercase, special characters)
-- ✅ Exclude specific custom characters (e.g., `@ # $` or letters you don't want)
+- ✅ Exclude specific custom characters (e.g., `@ # $` or any letters you don't want)
 - ✅ Generate multiple passwords without restarting
 - ✅ Color-coded terminal output using `colorama`
 - ✅ ASCII art banner with credits
@@ -24,6 +24,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/adelkamell/Strong_Password_Generator---SPG.git
 cd Strong_Password_Generator---SPG
@@ -31,7 +32,7 @@ Install the required dependency:
 
 bash
 pip install colorama
-▶️ Running the Program
+Running the Program
 bash
 python password_generator.py
 📖 How to Use
@@ -68,7 +69,6 @@ It is recommended to include at least 3 out of the 4 character types for strong 
 Python 3 – Core language
 
 Colorama – Terminal color support
-
 
 👨‍💻 Author
 Adel Kamel
