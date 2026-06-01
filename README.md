@@ -28,7 +28,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 git clone https://github.com/adelkamell/password-generator.git
 cd password-generator
 ```
-2. Install the required dependency:
+2. Install the required dependency :
 ```bash
 pip install colorama
 ```
