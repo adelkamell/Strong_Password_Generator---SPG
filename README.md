@@ -166,12 +166,7 @@ Python 3 – Core language
 
 Colorama – Terminal color support
 
-📁 Project Structure
-text
-password-generator/
-│
-├── password_generator.py   # Main script
-└── README.md               # Project documentation
+
 👨‍💻 Author
 Adel Kamel
 GitHub: @adelkamell
