@@ -1,3 +1,10 @@
+"""
+Strong Password Generator (SPG)
+A command-line tool to generate custom passwords with exclusion options.
+Author: Adel Kamel | GitHub: @adelkamell
+Repo: https://github.com/adelkamell/Strong_Password_Generator---SPG.git
+"""
+
 import random
 import string
 from colorama import Fore, Style
