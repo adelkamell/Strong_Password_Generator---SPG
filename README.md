@@ -129,8 +129,6 @@ Entropy: 95.3 bits  Very Strong
 ## 👨‍💻 Author
 - Adel Kamel
 
-## GitHub: @adelkamell
-
 ## 📄 License
 - This project is open source and available under the MIT License.
 
