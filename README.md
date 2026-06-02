@@ -77,16 +77,16 @@ View your generated password(s) with entropy score
 Generate another password – type y or n
 
 ## Command Line Options:
-Option	Description
--l, --length	Password length (default: 16)
---no-digits	Exclude digits
---no-lower	Exclude lowercase letters
---no-upper	Exclude uppercase letters
---no-special	Exclude special characters
--e, --exclude	Specific characters to exclude
--n, --count	Number of passwords to generate (default: 1)
---no-banner	Hide the banner
---clip	Copy first password to clipboard
+- Option	Description
+- -l, --length	Password length (default: 16)
+- --no-digits	Exclude digits
+- --no-lower	Exclude lowercase letters
+- --no-upper	Exclude uppercase letters
+- --no-special	Exclude special characters
+- -e, --exclude	Specific characters to exclude
+- -n, --count	Number of passwords to generate (default: 1)
+- --no-banner	Hide the banner
+- --clip	Copy first password to clipboard
 
 ## Example Walkthrough
 text
