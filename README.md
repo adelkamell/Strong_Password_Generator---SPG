@@ -89,7 +89,7 @@ Option	Description :
 - --clip	Copy first password to clipboard
 
 ## Example Walkthrough
-text
+``````text
 How many characters? 16
 
 How many passwords per batch? (press Enter for 1) 2
@@ -111,7 +111,7 @@ Entropy: 95.3 bits  Very Strong
 Password 2: R*tYzQ$3mNpL&xV
 Entropy: 95.3 bits  Very Strong
 ==================================================
-
+``````
 ## ⚠️ Important Note
 - The more character types you exclude, the less secure your password becomes.
 
